@@ -5,8 +5,8 @@
   <br>
 
   
-  <img src="https://media.tenor.com/SETDXWcfo-QAAAAj/deltarune-tenna.gif" height="95" width="800" alt="Tenna Banner">
-  <img src="https://static.wikia.nocookie.net/non-aliencreatures/images/9/94/Abaddon.webp/revision/latest?cb=20251215010739" height="110" width="800" alt="ABADDONNN">
+  <img src="https://media.tenor.com/SETDXWcfo-QAAAAj/deltarune-tenna.gif" height="120" width="800" alt="Tenna Banner">
+  <img src="https://static.wikia.nocookie.net/non-aliencreatures/images/9/94/Abaddon.webp/revision/latest?cb=20251215010739" height="120" width="800" alt="ABADDONNN">
   
 </div>
 
