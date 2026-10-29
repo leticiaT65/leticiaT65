@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h1>I'm an IT student, pretending to fill this github with fun contribuitions projects one day. :D</h1>
+  <h1>I'm an IT student, I pretend to fill this github with fun contribuitions projects one day. :D</h1>
   <br>
 
   
